@@ -1,5 +1,5 @@
 # Lab 01: A Modern & Retro Resume 
-## [DEMO LINK](smithbrandon.github.io/Covalence-Lab-01)
+## [DEMO LINK](https://smithbrandon.github.io/Covalence-Lab-01/)
 
 ## Due: Wednesday, May 31st
 ##### Covalence
